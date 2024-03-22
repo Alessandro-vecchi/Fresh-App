@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alessandro-vecchi/Fresh-App">
-    <img src="images/thumbnail" alt="Logo" width="200">
+    <img src="images/thumbnail.jpeg" alt="Logo" width="200">
   </a>
 
   <h2 align="center">Fresh-App</h2>
@@ -122,6 +122,8 @@ Project Link: [https://github.com/Alessandro-vecchi/Fresh-App](https://github.co
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+
+https://github.com/Ileriayo/markdown-badges
 -->
 [contributors-shield]: https://img.shields.io/github/contributors/Alessandro-vecchi/Fresh-App.svg?style=for-the-badge
 [contributors-url]: https://github.com/Alessandro-vecchi/Fresh-App/graphs/contributors
