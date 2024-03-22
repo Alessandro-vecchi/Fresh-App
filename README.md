@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alessandro-vecchi/Fresh-App">
-    <img src="https://static.wikia.nocookie.net/wall-epidea/images/7/70/Walle3.png/revision/latest?cb=20101120142558" alt="Logo" width="200">
+    <img src="images/thumbnail" alt="Logo" width="200">
   </a>
 
   <h2 align="center">Fresh-App</h2>
@@ -82,7 +82,7 @@ To run the back-end:
 - Open a terminal
 - Run `go run main.go`
 
-To run the fron-end:
+To run the front-end:
 
 - Run `npm run dev`
 - 
