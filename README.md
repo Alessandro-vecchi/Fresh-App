@@ -52,7 +52,7 @@
 ## About The Project
 
 
-Gameified app based on a virtual pet that acts as a virtual assistant and health tracking companion. Allows users to track their health metrics, and the pet reacts, positively responding to healthy behaviour. Includes features such as forum spaces, a leaderboard, smart watch pairing and AI food recognition systems.
+This is a gameified app based on a virtual pet that acts as a virtual assistant and health tracking companion. Allows users to track their health metrics, and the pet reacts, positively responding to healthy behaviour. Includes features such as forum spaces, leaderboards, AI-powered food recognition systems, .
 
 
 ## Demo
@@ -82,6 +82,8 @@ To run the back-end:
 - Open a terminal
 - Run `go run main.go`
 
+* [![NodeJS][NodeJS-badge]][NodeJS-url]
+* 
 To run the front-end:
 
 - Run `npm run dev`
@@ -163,5 +165,8 @@ https://github.com/Ileriayo/markdown-badges
 
 [NodeJS-badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJS-url]: https://NodeJS.org/
+
+[NPM-badge]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+[NPM-url]: https://NPM.org/
 
 
