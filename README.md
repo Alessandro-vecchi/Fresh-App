@@ -82,8 +82,8 @@ To run the back-end:
 - Open a terminal
 - Run `go run main.go`
 
-* [![NodeJS][NodeJS-badge]][NodeJS-url]
-* 
+[![NPM][NPM-badge]][NPM-url]
+  
 To run the front-end:
 
 - Run `npm run dev`
