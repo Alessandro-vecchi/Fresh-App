@@ -3,4 +3,5 @@ Gameified app based on a virtual pet that acts as a virtual assistant and health
 
 WORKING DEMO OF THE APP
 
-[bell-health.vercel.app]
+
+[App demo](bell-health.vercel.app)
